@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering"
+    ]
+  ],
+  "legacy_uid": "a83c31b7-c84d-68d5-9f97-ff3c40f6b6e3",
+  "instructors": {
+    "content": [
+      "6ef38acf-e916-092e-c56b-2cebac96b084",
+      "73601b7d-bcac-54a0-bf08-8bd8e78098b0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2c4ec0ef-96eb-49cd-f4f3-0a5848209f15",
+    "website": "12-010-computational-methods-of-scientific-programming-fall-2011"
+  },
+  "course_title": "Computational Methods of Scientific Programming",
+  "course_description": "This course introduces programming languages and techniques used by physical scientists: FORTRAN, C, C++, MATLAB\u00ae, and Mathematica. Emphasis is placed on program design, algorithm development and verification, and comparative advantages and disadvantages of different languages.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.010",
+  "course_image_thumbnail": {
+    "content": "b5228f0b-d213-1c99-38bb-42cf874537ca",
+    "website": "12-010-computational-methods-of-scientific-programming-fall-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Projects",
+    "Programming Assignments with Examples"
+  ],
+  "site_uid": "2782c7e1-4d90-49d2-ae5f-9b8d61714759",
+  "title": "Course Metadata"
+}
