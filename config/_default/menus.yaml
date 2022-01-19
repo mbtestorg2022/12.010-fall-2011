@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 15f0a763-1703-a44a-63c4-443703a897be
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: be1f6caf-7bfb-9a08-8b74-7ea689b850f7
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 5816426e-e626-2b91-ed6f-aec27f48aba8
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 30
+- identifier: e4d10212-c3b7-5470-c21f-8d65b30722d4
+  name: Assignments
+  url: /pages/assignments
+  weight: 40
+- identifier: 8849fe5d-d191-40c6-04b2-4616705c3502
+  name: Projects
+  url: /pages/projects
+  weight: 50
+- identifier: ddefc53c-5c9a-5e34-4407-32ac2e36985b
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 60
