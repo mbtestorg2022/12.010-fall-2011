@@ -91,7 +91,7 @@ HW03\_03\_11.in ([IN]({{< baseurl >}}/resources/hw03_03_11))
 Homework 4 ([PDF]({{< baseurl >}}/resources/mit12_010f11_hw04_11))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit12_010f11_hw04_soln_11))
+([PDF]({{< baseurl >}}/resources/mit12_010f11_hw04_soln_11))
 {{< tdclose >}}
 {{< tdopen >}}
 
