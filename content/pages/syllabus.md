@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-_Calculus (_[_18.01_](/courses/18-01-single-variable-calculus-fall-2006/)_), Multivariable Calculus (_[_18.02_](/courses/18-02-multivariable-calculus-fall-2007/)_), Physics I - Classical Mechanics (_[_8.01_](/courses/8-01sc-physics-i-classical-mechanics-fall-2010)_)_.
+_Calculus (_[_18.01_](/courses/18-01-single-variable-calculus-fall-2006)_), Multivariable Calculus (_[_18.02_](/courses/18-02-multivariable-calculus-fall-2007)_), Physics I - Classical Mechanics (_[_8.01_](/courses/8-01sc-physics-i-classical-mechanics-fall-2010)_)_.
 
 Course Description
 ------------------
